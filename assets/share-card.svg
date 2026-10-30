@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs><pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="12" cy="12" r="0.7" fill="#242424"/></pattern></defs>
+  <rect width="1200" height="630" fill="#0D0D0D"/>
+  <rect width="1200" height="630" fill="url(#dots)"/>
+  <g font-family="JetBrains Mono,monospace" font-weight="400">
+    <path d="M64 64H1136M64 566H1136" stroke="#2B2B2B"/>
+    <rect x="64" y="101" width="6" height="6" fill="#C4ED68"/>
+    <text x="86" y="110" fill="#888888" font-size="14">THE SWARM IS COMING...</text>
+    <text x="56" y="291" fill="#E5E5E5" font-size="154" letter-spacing="-10">routr<tspan fill="#C4ED68">/</tspan></text>
+    <text x="64" y="364" fill="#E5E5E5" font-size="27">liquidity in. compute out.</text>
+    <text x="64" y="408" fill="#888888" font-size="27">agents never stop.</text>
+    <text x="64" y="509" fill="#888888" font-size="16">the routing layer for AI agent swarms.</text>
+    <g fill="#42483B" font-size="18">
+      <text x="800" y="154">[-_-]   [=_=]</text><text x="735" y="210">[o_o]   [O_O]</text><text x="941" y="263">[&gt;_&lt;]</text><text x="733" y="372">[^_^]   [-_-]</text><text x="810" y="432">[o_o]   [=_=]</text><text x="991" y="477">[O_O]</text>
+    </g>
+    <text x="828" y="315" fill="#C4ED68" font-size="44">[o_o]</text>
+    <text x="990" y="110" fill="#888888" font-size="14">routr/</text>
+    <text x="965" y="509" fill="#888888" font-size="14">next() →</text>
+  </g>
+</svg>
